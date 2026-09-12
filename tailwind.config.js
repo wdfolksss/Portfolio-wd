@@ -26,7 +26,7 @@ export default {
       },
       fontFamily: {
         'instrument': ['"Instrument Sans"'],
-        'plus-jakarta': ['"Plus Jakarta Sans"'], 
+        'plus-jakarta': ['"Plus Jakarta Sans"'],
       },
       rotate: {
         '-180': '-180deg',
